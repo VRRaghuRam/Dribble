@@ -32,7 +32,7 @@ Publish the website in the LocalHost.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dribbble Clone</title>
+    <title>Dribbble</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
@@ -40,7 +40,7 @@ Publish the website in the LocalHost.
 <!-- Navigation Bar -->
 <nav class="navbar navbar-expand-lg navbar-danger bg-warning">
     <div class="container">
-        <a class="navbar-brand" href="#">Dribbble Clone</a>
+        <a class="navbar-brand" href="#">Dribbble</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -82,7 +82,7 @@ Publish the website in the LocalHost.
                     <img src="amazing ui.png" class="card-img-top" alt="Sample Work">
                     <div class="card-body">
                         <h5 class="card-title">Amazing UI</h5>
-                        <a href="#" class="btn btn-warning">View More</a>
+                        <h4>👁3k  💬621  👍1.5k</h4>
                         
                     </div>
                 </div>
@@ -92,7 +92,7 @@ Publish the website in the LocalHost.
                     <img src="Folio Illustration Agency.png" class="card-img-top" alt="Sample Work">
                     <div class="card-body">
                         <h5 class="card-title">Folio Illustration Agency</h5>
-                        <a href="#" class="btn btn-warning">View More</a>
+                        <h4>👁3.1k  💬420  👍1k</h4>
                         
                     </div>
                 </div>
@@ -102,7 +102,7 @@ Publish the website in the LocalHost.
                     <img src="George Railean.png" class="card-img-top" alt="Sample Work">
                     <div class="card-body">
                         <h5 class="card-title">George Railean</h5>
-                        <a href="#" class="btn btn-warning">View More</a>
+                        <h4>👁800k  💬213  👍569k</h4>
                         
                     </div>
                 </div>
@@ -112,7 +112,7 @@ Publish the website in the LocalHost.
                     <img src="Ivan Ermakov.png" class="card-img-top" alt="Sample Work">
                     <div class="card-body">
                         <h5 class="card-title">Ivan Ermakov</h5>
-                        <a href="#" class="btn btn-warning">View More</a>
+                        <h4>👁4k  💬1.1k  👍5k</h4>
                         
                     </div>
                 </div>
@@ -122,7 +122,7 @@ Publish the website in the LocalHost.
                     <img src="Marta Wasilewska.png" class="card-img-top" alt="Sample Work">
                     <div class="card-body">
                         <h5 class="card-title">Marta Wasilewska</h5>
-                        <a href="#" class="btn btn-warning">View More</a>
+                        <h4>👁9k  💬2k  👍8k</h4>
                         
                     </div>
                 </div>
@@ -132,7 +132,7 @@ Publish the website in the LocalHost.
                     <img src="Roobinium.png" class="card-img-top" alt="Sample Work">
                     <div class="card-body">
                         <h5 class="card-title">Roobinium</h5>
-                        <a href="#" class="btn btn-warning">View More</a>
+                        <h4>👁2.2k  💬990  👍1k</h4>
                         
                     </div>
                 </div>
@@ -142,7 +142,7 @@ Publish the website in the LocalHost.
                     <img src="Sadman Sakib.png" class="card-img-top" alt="Sample Work">
                     <div class="card-body">
                         <h5 class="card-title">Sadman Sakib</h5>
-                        <a href="#" class="btn btn-warning">View More</a>
+                        <h4>👁6k  💬897  👍6k</h4>
                         
                     </div>
                 </div>
@@ -152,7 +152,7 @@ Publish the website in the LocalHost.
                     <img src="Vektora.png" class="card-img-top" alt="Sample Work">
                     <div class="card-body">
                         <h5 class="card-title">Vektora</h5>
-                        <a href="#" class="btn btn-warning">View More</a>
+                        <h4>👁8k  💬785  👍4.4k</h4>
                         
                     </div>
                 </div>
@@ -162,7 +162,7 @@ Publish the website in the LocalHost.
                     <img src="Wavespace - UIUX.png" class="card-img-top" alt="Sample Work">
                     <div class="card-body">
                         <h5 class="card-title">Wavespace - UI UX</h5>
-                        <a href="#" class="btn btn-warning">View More</a>
+                        <h4>👁9.9k  💬5k  👍8k</h4>
                         
                     </div>
                 </div>
@@ -184,13 +184,13 @@ Publish the website in the LocalHost.
 </body>
 </html>
 
-```
+
+``` 
 
 
 ## OUTPUT:
-![alt text](<portfolio/raghu/static/Screenshot (48).png>)
-![alt text](<portfolio/raghu/static/Screenshot (49).png>)
-
+![alt text](<Screenshot (50).png>)
+![alt text](<Screenshot (51).png>)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
