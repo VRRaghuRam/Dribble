@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-## Date:25/12/2024
+## Date:26/12/2024
 
 ## AIM:
 To create a simplified clone of Dribbble (https://dribbble.com/) landing page.
@@ -66,7 +66,7 @@ Publish the website in the LocalHost.
 <!-- Hero Section -->
 <section class="py-5 text-center bg-secondary">
     <div class="container">
-        <h1 class="display-4">APPLE PRODUCTS</h1>
+        <h1 class="display-4">Dribble</h1>
         <p class="lead">Explore creative portfolios, find inspiration, and showcase your work.</p>
         <a href="#" class="btn btn-primary btn-lg">Explore Work</a>
     </div>
@@ -79,27 +79,90 @@ Publish the website in the LocalHost.
         <div class="row g-4">
             <div class="col-md-4">
                 <div class="card">
-                    <img src="dribble.png" class="card-img-top" alt="Sample Work">
+                    <img src="amazing ui.png" class="card-img-top" alt="Sample Work">
                     <div class="card-body">
-                        <h5 class="card-title">IPHONE 16 PRO MAX</h5>
+                        <h5 class="card-title">Amazing UI</h5>
+                        <a href="#" class="btn btn-warning">View More</a>
                         
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <img src="dribble 2.png" class="card-img-top" alt="Sample Work">
+                    <img src="Folio Illustration Agency.png" class="card-img-top" alt="Sample Work">
                     <div class="card-body">
-                        <h5 class="card-title">MACBOOK</h5>
+                        <h5 class="card-title">Folio Illustration Agency</h5>
+                        <a href="#" class="btn btn-warning">View More</a>
                         
                     </div>
                 </div>
             </div>
             <div class="col-md-4">
                 <div class="card">
-                    <img src="original-7f0e79e19d4351f38d928f6c4be60827.png" class="card-img-top" alt="Sample Work">
+                    <img src="George Railean.png" class="card-img-top" alt="Sample Work">
                     <div class="card-body">
-                        <h5 class="card-title">AIRPODES</h5>
+                        <h5 class="card-title">George Railean</h5>
+                        <a href="#" class="btn btn-warning">View More</a>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="Ivan Ermakov.png" class="card-img-top" alt="Sample Work">
+                    <div class="card-body">
+                        <h5 class="card-title">Ivan Ermakov</h5>
+                        <a href="#" class="btn btn-warning">View More</a>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="Marta Wasilewska.png" class="card-img-top" alt="Sample Work">
+                    <div class="card-body">
+                        <h5 class="card-title">Marta Wasilewska</h5>
+                        <a href="#" class="btn btn-warning">View More</a>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="Roobinium.png" class="card-img-top" alt="Sample Work">
+                    <div class="card-body">
+                        <h5 class="card-title">Roobinium</h5>
+                        <a href="#" class="btn btn-warning">View More</a>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="Sadman Sakib.png" class="card-img-top" alt="Sample Work">
+                    <div class="card-body">
+                        <h5 class="card-title">Sadman Sakib</h5>
+                        <a href="#" class="btn btn-warning">View More</a>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="Vektora.png" class="card-img-top" alt="Sample Work">
+                    <div class="card-body">
+                        <h5 class="card-title">Vektora</h5>
+                        <a href="#" class="btn btn-warning">View More</a>
+                        
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card">
+                    <img src="Wavespace - UIUX.png" class="card-img-top" alt="Sample Work">
+                    <div class="card-body">
+                        <h5 class="card-title">Wavespace - UI UX</h5>
+                        <a href="#" class="btn btn-warning">View More</a>
                         
                     </div>
                 </div>
@@ -120,12 +183,13 @@ Publish the website in the LocalHost.
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
 </body>
 </html>
+
 ```
 
 
 ## OUTPUT:
-![alt text](<portfolio/raghu/static/Screenshot (45).png>)
-![alt text](<portfolio/raghu/static/Screenshot (46).png>)
+![alt text](<portfolio/raghu/static/Screenshot (48).png>)
+![alt text](<portfolio/raghu/static/Screenshot (49).png>)
 
 
 ## RESULT:
